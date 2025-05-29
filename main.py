@@ -1,3 +1,4 @@
 print("Hello")
 print("wasim")
-print("Hello evry one")
+print("Hello every one")
+print("Hi there")
